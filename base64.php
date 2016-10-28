@@ -96,7 +96,3 @@ class Base64{
         return $out;
     }
 }
-//example
-$bs = new base64;
-var_dump($bs->decode("dGVzdA=="));
-var_dump($bs->encode("test"));
