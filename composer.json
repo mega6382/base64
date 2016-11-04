@@ -1,0 +1,14 @@
+{
+    "name": "mega6382/base64",
+    "description": "This class can encode and decode data in base64 in pure PHP. It can take a data string and encode it using the base64 algorithm. The class can also do the opposite, i.e. decode base64 encoded data and return the original data string.",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Haseeb Basil",
+            "email": "haseeb.basil@crowdafrica.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
