@@ -9,6 +9,6 @@
             "email": "haseeb.basil@crowdafrica.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
